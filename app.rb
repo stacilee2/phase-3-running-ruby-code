@@ -13,6 +13,10 @@
 # end
 # # 1 + 1
 # puts add + add
+puts "Hello World!"
+puts "Pass this test, please."
+p [1,2,3]
+puts "Hello IRB"
 
 def add num1, num2
     puts num1
